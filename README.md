@@ -1,16 +1,16 @@
 ### Hi there 👋
 <p align="center">
-<!-- 	<a href="https://github.com/Pallavi-Pandey">
-		<img src="https://komarev.com/ghpvc/?username=Pallavi-Pandey&label=Profile%20views&color=0e75b6&style=flat" alt="Pallavi-Pandey" />
+<!-- 	<a href="https://github.com/navasakthi">
+		<img src="https://komarev.com/ghpvc/?username=navasakthi&label=Profile%20views&color=0e75b6&style=flat" alt="navasakthi" />
 	-  Head to my portfolio: <a href="https://pp-verse.me" target="_blank">**https://pp-verse.me**</a>
 	</a> -->
-	<a href="https://github.com/Pallavi-Pandey">
-		<img src="https://img.shields.io/github/followers/Pallavi-Pandey?label=Followers" alt="Pallavi-Pandey" />
+	<a href="https://github.com/navasakthi">
+		<img src="https://img.shields.io/github/followers/navasakthi?label=Followers" alt="navasakthi" />
 	</a>
 </p>
 <br/>
 <p align="center">
-	<a href="https://github.com/Pallavi-Pandey">
+	<a href="https://github.com/navasakthi">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;A+passionate+student;Competitive+Programmer;Critical+Thinker;Always%20Crafting%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
